@@ -1,0 +1,79 @@
+﻿@model IEnumerable<DataObjects.Visitor>
+
+@{
+    ViewBag.Title = "Signed In";
+}
+
+<br /><br />
+<h2>
+    @{ var last = Model.Last(); }
+    @Html.DisplayFor(modelItem => last.FirstName)
+    you are successfully signed in
+</h2>
+<br /><br />
+<div>
+    <div>
+        <input type="text" id="search" placeholder="Filter...">
+    </div>
+    <br />
+    <table class="table" id="table">
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Company</th>
+            <th>Person Visiting</th>
+            <th>Citizen</th>
+            <th>Signed In</th>
+            <th>Signed In Time</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Company)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersonVisiting)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Citizen)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SignedIn)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SignedInTime)
+                </td>
+                <td>
+                    @Html.ActionLink("Sign Out", "SignOut", "Visitors", new { visitorID = item.VisitorID }, new { @class = "btn btn-primary" })
+                </td>
+            </tr>
+        }
+    </table>
+    <script>
+        var $rows = $('#table tr');
+        $('#search').keyup(function () {
+
+            var val = '^(?=.*\\b' + $.trim($(this).val()).split(/\s+/).join('\\b)(?=.*\\b') + ').*$',
+                reg = RegExp(val, 'i'),
+                text;
+
+            $rows.show().filter(function () {
+                text = $(this).text().replace(/\s+/g, ' ');
+                return !reg.test(text);
+            }).hide();
+        });
+
+    </script>
+</div>
+
+<div>
+    @Html.ActionLink("Back to Welcome Page", "Index", "Home")
+</div>

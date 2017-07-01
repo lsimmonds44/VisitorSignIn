@@ -1,0 +1,54 @@
+C:\laura\SignInFormWPF\LogicLayer\bin\Debug\LogicLayer.dll
+C:\laura\SignInFormWPF\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\laura\SignInFormWPF\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\laura\SignInFormWPF\LogicLayer\bin\Debug\DataObjects.dll
+C:\laura\SignInFormWPF\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\laura\SignInFormWPF\LogicLayer\bin\Debug\DataObjects.pdb
+C:\laura\SignInFormWPF\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\laura\SignInFormWPF\LogicLayer\obj\Debug\LogicLayer.dll
+C:\laura\SignInFormWPF\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\laura\SignInFormWPF - Copy\LogicLayer\bin\Debug\LogicLayer.dll
+C:\laura\SignInFormWPF - Copy\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\laura\SignInFormWPF - Copy\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\laura\SignInFormWPF - Copy\LogicLayer\bin\Debug\DataObjects.dll
+C:\laura\SignInFormWPF - Copy\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\laura\SignInFormWPF - Copy\LogicLayer\bin\Debug\DataObjects.pdb
+C:\laura\SignInFormWPF - Copy\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\laura\SignInFormWPF - Copy\LogicLayer\obj\Debug\LogicLayer.dll
+C:\laura\SignInFormWPF - Copy\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\bin\Debug\LogicLayer.dll
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\bin\Debug\DataObjects.dll
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\bin\Debug\DataObjects.pdb
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\obj\Debug\LogicLayer.dll
+C:\laura\SignInFormWPF - Copy - Copy\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\laura\VisitorSignInForm\LogicLayer\bin\Debug\LogicLayer.dll
+C:\laura\VisitorSignInForm\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\laura\VisitorSignInForm\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\laura\VisitorSignInForm\LogicLayer\bin\Debug\DataObjects.dll
+C:\laura\VisitorSignInForm\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\laura\VisitorSignInForm\LogicLayer\bin\Debug\DataObjects.pdb
+C:\laura\VisitorSignInForm\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\laura\VisitorSignInForm\LogicLayer\obj\Debug\LogicLayer.dll
+C:\laura\VisitorSignInForm\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\bin\Debug\DataObjects.dll
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\bin\Debug\DataObjects.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Laura\Desktop\VisitorSignInForm\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\bin\Debug\DataObjects.dll
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\bin\Debug\DataObjects.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Laura\Desktop\VisitorSignInForm0630\LogicLayer\obj\Debug\LogicLayer.pdb

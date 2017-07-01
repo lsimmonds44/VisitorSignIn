@@ -1,0 +1,74 @@
+﻿@model DataObjects.Visitor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Visitor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Company)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PersonVisiting)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonVisiting)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Citizen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Citizen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SignedIn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SignedIn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SignedInTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SignedInTime)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VisitorID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

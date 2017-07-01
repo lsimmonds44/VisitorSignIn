@@ -1,0 +1,18 @@
+C:\laura\SignInFormWPF\DataObjects\bin\Debug\DataObjects.dll
+C:\laura\SignInFormWPF\DataObjects\bin\Debug\DataObjects.pdb
+C:\laura\SignInFormWPF\DataObjects\obj\Debug\DataObjects.dll
+C:\laura\SignInFormWPF\DataObjects\obj\Debug\DataObjects.pdb
+C:\laura\SignInFormWPF - Copy\DataObjects\bin\Debug\DataObjects.dll
+C:\laura\SignInFormWPF - Copy\DataObjects\bin\Debug\DataObjects.pdb
+C:\laura\SignInFormWPF - Copy\DataObjects\obj\Debug\DataObjects.dll
+C:\laura\SignInFormWPF - Copy\DataObjects\obj\Debug\DataObjects.pdb
+C:\laura\VisitorSignInForm\DataObjects\bin\Debug\DataObjects.dll
+C:\laura\VisitorSignInForm\DataObjects\bin\Debug\DataObjects.pdb
+C:\laura\VisitorSignInForm\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\laura\VisitorSignInForm\DataObjects\obj\Debug\DataObjects.dll
+C:\laura\VisitorSignInForm\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\Laura\Desktop\VisitorSignInForm\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\Laura\Desktop\VisitorSignInForm\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\VisitorSignInForm\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\Laura\Desktop\VisitorSignInForm\DataObjects\obj\Debug\DataObjects.pdb

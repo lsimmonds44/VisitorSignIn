@@ -1,0 +1,12 @@
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<br /><br />
+<h1>Welcome! Please sign in.</h1>
+<br />
+
+<p>
+    @*@Html.ActionLink("Continue", "Index", "Visitors", null, new { @class = "btn btn-primary" })*@
+    @Html.ActionLink("Sign In", "Create", "Visitors", null, new { @class = "btn btn-primary" })
+</p>
